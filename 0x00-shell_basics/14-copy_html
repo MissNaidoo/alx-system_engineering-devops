@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -un *.tml ../
+cp  -un *.html ../
